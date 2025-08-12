@@ -1,0 +1,35 @@
+<!DOCTYPE html> 
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <!-- Importa o arquivo CSS externo para estilizar a página -->
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <!-- Título principal da página -->
+        <h1>Apresente-se para nós</h1>
+    </header>
+
+    <section>
+        <!-- Formulário que envia os dados para 'cad.php' usando o método GET -->
+        <!-- GET → envia dados na URL (ex: cad.php?nome=...&sobrenome=...) -->
+        <form action="cad.php" method="get">
+
+            <!-- Campo de texto para o nome -->
+            <label for="nome">Nome: </label>
+            <input type="text" name="nome" id="idnome">
+
+            <!-- Campo de texto para o sobrenome -->
+            <label for="sobrenome">Sobrenome: </label>
+            <input type="text" name="sobrenome" id="idsobrenome">
+
+            <!-- Botão que envia o formulário -->
+            <input type="submit" value="Enviar">
+        </form>
+    </section>   
+</body>
+</html>
