@@ -20,5 +20,5 @@ O curso aborda desde os fundamentos até conceitos avançados de PHP, com foco e
 
 ---
 
-**Curso:** [Curso PHP Moderno - Gustavo Guanabara](https://www.cursoemvideo.com/course/curso-php-7-moderno/)  
+**Curso:** [Curso PHP Moderno - Gustavo Guanabara]([https://www.cursoemvideo.com/course/curso-php-7-moderno/](https://www.cursoemvideo.com/curso/curso-de-php-moderno-modulo-01/))  
 **Repositório criado por:** Louise Alonso
